@@ -1,4 +1,4 @@
-var count = 9;
+var count = 12;
 
 for (var i = 0; i < count; i++) {
   var raster = new Raster('m'+i);
